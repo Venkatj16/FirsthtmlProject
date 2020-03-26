@@ -1,3 +1,3 @@
 FROM Alpine:latest
-metadata: venkat.j16@gmail.com
-RUN FirstHTML.html
+MAINTAINER vrp <venkat.j16@gmail.com>
+RUN /FirsthtmlProject/FirstHTML.html
