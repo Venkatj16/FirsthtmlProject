@@ -1,3 +1,3 @@
-FROM Alpine:latest
+FROM Alpine:3.7
 MAINTAINER vrp <venkat.j16@gmail.com>
-RUN /FirsthtmlProject/FirstHTML.html
+
